@@ -1,5 +1,4 @@
 # Camera Workbench
-
 This repository is a lightweight Angular workspace used to experiment
 with camera input and image-based API interactions.
 
